@@ -8,7 +8,8 @@ import org.aspectj.lang.annotation.Before;
 import org.aspectj.lang.annotation.Pointcut;
 import org.springframework.stereotype.Component;
 
-@Aspect
+//commenting this in lec-3 week 1 to use its version 2
+//@Aspect
 @Component
 @Slf4j
 public class LoggingAspect {
